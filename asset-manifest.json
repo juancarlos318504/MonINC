@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MonINC/static/css/main.db36b447.chunk.css",
+    "main.js": "/MonINC/static/js/main.d5dc343c.chunk.js",
+    "main.js.map": "/MonINC/static/js/main.d5dc343c.chunk.js.map",
+    "runtime-main.js": "/MonINC/static/js/runtime-main.e8a78579.js",
+    "runtime-main.js.map": "/MonINC/static/js/runtime-main.e8a78579.js.map",
+    "static/js/2.33438fcf.chunk.js": "/MonINC/static/js/2.33438fcf.chunk.js",
+    "static/js/2.33438fcf.chunk.js.map": "/MonINC/static/js/2.33438fcf.chunk.js.map",
+    "static/js/3.a2302020.chunk.js": "/MonINC/static/js/3.a2302020.chunk.js",
+    "static/js/3.a2302020.chunk.js.map": "/MonINC/static/js/3.a2302020.chunk.js.map",
+    "index.html": "/MonINC/index.html",
+    "static/css/main.db36b447.chunk.css.map": "/MonINC/static/css/main.db36b447.chunk.css.map",
+    "static/js/2.33438fcf.chunk.js.LICENSE.txt": "/MonINC/static/js/2.33438fcf.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/MonINC/static/media/logo.103b5fa1.svg",
+    "static/media/logo.d0a28471.png": "/MonINC/static/media/logo.d0a28471.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8a78579.js",
+    "static/js/2.33438fcf.chunk.js",
+    "static/css/main.db36b447.chunk.css",
+    "static/js/main.d5dc343c.chunk.js"
+  ]
+}
